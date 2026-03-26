@@ -1,0 +1,7 @@
+{
+  "window_size": "400x300",
+  "bg_color": "#f0f2f5",
+  "text_color": "#2c3e50",
+  "btn_color": "#3498db",
+  "font": ["微软雅黑", 12, "bold"]
+}

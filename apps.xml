@@ -1,0 +1,10 @@
+<apps>
+  <app>
+    <name>计算器</name>
+    <file>calc.html</file>
+  </app>
+  <app>
+    <name>记事本</name>
+    <file>note.html</file>
+  </app>
+</apps>
